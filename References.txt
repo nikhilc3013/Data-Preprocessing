@@ -1,0 +1,32 @@
+Time Series:
+https://arxiv.org/ftp/arxiv/papers/1510/1510.03924.pdf
+https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/
+
+Data:
+https://towardsdatascience.com/data-types-in-statistics-347e152e8bee
+
+Missing data:
+https://www.displayr.com/different-types-of-missing-data/
+https://www.theanalysisfactor.com/seven-ways-to-make-up-data-common-methods-to-imputing-missing-data/
+https://www.theanalysisfactor.com/missing-data-criteria-for-choosing-an-effective-approach/
+https://www.theanalysisfactor.com/multiple-imputation-missing-data/
+https://www.theanalysisfactor.com/multiple-imputation-for-missing-data-indicator-variables-versus-categorical-variable/
+
+Scikit-learn:
+	Outlier and novelty detection
+	Data transformation
+	Data Imputation
+
+Analytics:
+https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/
+https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html
+
+Outliers:
+https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/
+
+ToDo:
+09-05-19
+	1. Data types			Done
+	2. Types of missing data	Done
+	3. Handling missing data	Not Done
+	4. Imputation Strategies	Not Done

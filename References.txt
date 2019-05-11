@@ -23,10 +23,10 @@ https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need
 
 Outliers:
 https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/
+https://medium.com/datadriveninvestor/finding-outliers-in-dataset-using-python-efc3fce6ce32
 
 ToDo:
-09-05-19
-	1. Data types			Done
+    1. Data types			Done
 	2. Types of missing data	Done
 	3. Handling missing data	Not Done
 	4. Imputation Strategies	Not Done

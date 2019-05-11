@@ -5,12 +5,21 @@ https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/
 Data:
 https://towardsdatascience.com/data-types-in-statistics-347e152e8bee
 
+Datasets:
+https://openmv.net/tag/missing-data
+
 Missing data:
 https://www.displayr.com/different-types-of-missing-data/
 https://www.theanalysisfactor.com/seven-ways-to-make-up-data-common-methods-to-imputing-missing-data/
 https://www.theanalysisfactor.com/missing-data-criteria-for-choosing-an-effective-approach/
 https://www.theanalysisfactor.com/multiple-imputation-missing-data/
 https://www.theanalysisfactor.com/multiple-imputation-for-missing-data-indicator-variables-versus-categorical-variable/
+https://scikit-learn.org/stable/modules/impute.html#id4
+
+Courses:
+https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
+https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+https://www.coursera.org/specializations/probabilistic-graphical-models
 
 Scikit-learn:
 	Outlier and novelty detection

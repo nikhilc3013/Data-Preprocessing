@@ -1,0 +1,45 @@
+Water SCADA analysis
+Data at hand:
+ESLR ID
+Date
+Time
+Water Level
+Flow data
+ESLR capacity
+
+Some assumptions about data:
+The has no major trends as the values lie between [0, max_capacity].
+The data has a seasonality on daily basis with a significant amount of noise/anomalies.
+
+To do:
+Detect anomalies in the data.
+Report filling and distribution times on a daily basis depending upon the available data.
+Some strategies:
+Transform the unevenly-spaced data into evenly-spaced data.
+Apply exponential smoothing on the data to smooth out the noise.
+Since the data has no label, we can apply some unsupervised techniques(K-means clustering) to get some insights about the data.
+Apply anomaly detection algorithms and algorithms to understand the seasonality and trends in the data.
+
+
+
+
+
+
+
+Algorithms and References:
+Auto encoders/LSTM Auto encoders
+https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
+http://philipperemy.github.io/anomaly-detection/
+K-means Clustering
+http://amid.fish/anomaly-detection-with-k-means-clustering
+Holt-Winters method
+https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
+ARIMA model
+https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
+Linear interpolation
+Exponential Smoothing
+Other methods
+https://machinelearningmastery.com/time-series-forecasting/
+Regarding Time series analysis
+https://onlinecourses.science.psu.edu/stat510/lesson/1
+https://www.kdnuggets.com/2018/03/time-series-dummies-3-step-process.html
